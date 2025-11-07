@@ -1,0 +1,1 @@
+This repository contains the completed Python internship tasks for CodeAlpha. It includes: A Hangman Game: A simple text-based word guessing game. A Stock Portfolio Tracker: A tool to calculate total investment value from manually defined stock prices. A Basic Chatbot: A rule-based chatbot that responds to common user inputs.
